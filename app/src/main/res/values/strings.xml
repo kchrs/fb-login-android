@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fb-login</string>
+
+    <!--fb app IDs etc -->
+    <string name="facebook_app_id">186142862315301</string>
+    <string name="fb_login_protocol_scheme">fb186142862315301</string>
+</resources>
